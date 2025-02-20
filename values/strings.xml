@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">budgetify1</string>
+    <string name="budgetify_title">CashTrack</string>
+    <string name="end_session">End Session</string>
+    <string name="logout_confirmation_message">Are you sure you want to log out?</string>
+    <string name="yes_end_session">Yes, End Session</string>
+    <string name="cancel">Cancel</string>
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+
+
+
+</resources>

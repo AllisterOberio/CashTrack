@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dashboard" type="id" />
+    <item name="profile" type="id" />
+    <item name="category" type="id" />
+    <item name="logout" type="id" />
+
+    <item name="editProfileButton" type="id"/>
+
+</resources>

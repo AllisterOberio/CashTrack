@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="Black">#FF0000</color>
+    <color name="hint_gray">#999999</color>
+    <color name="gray">#808080</color>
+    <color name="dark_blue">#00008B</color>
+    <color name="blue">#0080ff</color>
+    <color name="light_blue">#009FEF</color>
+    <color name="bleu">#0247fe</color>
+
+    <!-- Basic Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF4C4C</color>
+
+    <!-- Primary Colors -->
+    <color name="blue_100">#0080FF</color>
+    <color name="green">#0080FF</color>
+    <color name="green_100">#0080FF</color>
+    <color name="green_primary">#0080FF</color>
+    <color name="green_accent">#1DD47E</color>
+    <color name="green_light">#DEEFF5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#1E1E1E</color>
+    <color name="text_secondary">#757575</color>
+    <color name="gray_light">#B0BEC5</color>
+    <color name="gray_dark">#455A64</color>
+
+
+
+</resources>
